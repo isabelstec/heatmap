@@ -1,0 +1,2298 @@
+[
+    {
+        "date": "2024-01-01",
+        "total_songs": 25,
+        "most_played_song": "Bewitched",
+        "most_played_count": 2,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-01-02",
+        "total_songs": 82,
+        "most_played_song": "Fake Out",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-01-03",
+        "total_songs": 96,
+        "most_played_song": "Z\u0142amane serce jest OK",
+        "most_played_count": 16,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-01-04",
+        "total_songs": 82,
+        "most_played_song": "Henrietta",
+        "most_played_count": 4,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-01-05",
+        "total_songs": 37,
+        "most_played_song": "There\u2019d Better Be A Mirrorball",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-01-06",
+        "total_songs": 41,
+        "most_played_song": "Z\u0142amane serce jest OK",
+        "most_played_count": 24,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-01-07",
+        "total_songs": 70,
+        "most_played_song": "Letter To My 13 Year Old Self",
+        "most_played_count": 5,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-01-08",
+        "total_songs": 52,
+        "most_played_song": "Heartbreak Feels So Good",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-01-09",
+        "total_songs": 67,
+        "most_played_song": "I Ciebie te\u017c, bardzo (feat. Daria Zawia\u0142ow, Dawid Podsiad\u0142o & Vito Bambino)",
+        "most_played_count": 3,
+        "artist": "M\u0119skie Granie Orkiestra"
+    },
+    {
+        "date": "2024-01-10",
+        "total_songs": 66,
+        "most_played_song": "Balaclava",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-01-11",
+        "total_songs": 102,
+        "most_played_song": "Baby Fratelli",
+        "most_played_count": 5,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-01-12",
+        "total_songs": 60,
+        "most_played_song": "There\u2019d Better Be A Mirrorball",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-01-13",
+        "total_songs": 87,
+        "most_played_song": "Rebel Child",
+        "most_played_count": 67,
+        "artist": "Dylan"
+    },
+    {
+        "date": "2024-01-14",
+        "total_songs": 68,
+        "most_played_song": "Rebel Child",
+        "most_played_count": 36,
+        "artist": "Dylan"
+    },
+    {
+        "date": "2024-01-15",
+        "total_songs": 196,
+        "most_played_song": "Girl Of Your Dreams",
+        "most_played_count": 13,
+        "artist": "Dylan"
+    },
+    {
+        "date": "2024-01-16",
+        "total_songs": 114,
+        "most_played_song": "Chelsea Dagger",
+        "most_played_count": 5,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-01-17",
+        "total_songs": 71,
+        "most_played_song": "Modern Day Cain - Slow Jam Version",
+        "most_played_count": 4,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-01-18",
+        "total_songs": 56,
+        "most_played_song": "Rebel Child",
+        "most_played_count": 5,
+        "artist": "Dylan"
+    },
+    {
+        "date": "2024-01-19",
+        "total_songs": 98,
+        "most_played_song": "Lovesick",
+        "most_played_count": 5,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-01-20",
+        "total_songs": 51,
+        "most_played_song": "Arabella",
+        "most_played_count": 2,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-01-21",
+        "total_songs": 61,
+        "most_played_song": "Phantom Liberty",
+        "most_played_count": 8,
+        "artist": "Dawid Podsiad\u0142o"
+    },
+    {
+        "date": "2024-01-22",
+        "total_songs": 60,
+        "most_played_song": "Baby Fratelli",
+        "most_played_count": 2,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-01-23",
+        "total_songs": 83,
+        "most_played_song": "Halo",
+        "most_played_count": 4,
+        "artist": "Dawid Podsiad\u0142o"
+    },
+    {
+        "date": "2024-01-24",
+        "total_songs": 93,
+        "most_played_song": "D I A B L E",
+        "most_played_count": 7,
+        "artist": "Dawid Podsiad\u0142o"
+    },
+    {
+        "date": "2024-01-25",
+        "total_songs": 60,
+        "most_played_song": "Balaclava",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-01-26",
+        "total_songs": 107,
+        "most_played_song": "Halo",
+        "most_played_count": 5,
+        "artist": "Dawid Podsiad\u0142o"
+    },
+    {
+        "date": "2024-01-27",
+        "total_songs": 96,
+        "most_played_song": "Ma\u0142omiasteczkowy",
+        "most_played_count": 6,
+        "artist": "Dawid Podsiad\u0142o"
+    },
+    {
+        "date": "2024-01-28",
+        "total_songs": 93,
+        "most_played_song": "Phantom Liberty",
+        "most_played_count": 13,
+        "artist": "Dawid Podsiad\u0142o"
+    },
+    {
+        "date": "2024-01-29",
+        "total_songs": 45,
+        "most_played_song": "Fake Out",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-01-30",
+        "total_songs": 136,
+        "most_played_song": "One For The Road",
+        "most_played_count": 30,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-01-31",
+        "total_songs": 60,
+        "most_played_song": "My Propeller",
+        "most_played_count": 7,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-02-01",
+        "total_songs": 117,
+        "most_played_song": "Every Heart But Mine",
+        "most_played_count": 6,
+        "artist": "Dylan"
+    },
+    {
+        "date": "2024-02-02",
+        "total_songs": 147,
+        "most_played_song": "Ma\u0142omiasteczkowy",
+        "most_played_count": 9,
+        "artist": "Dawid Podsiad\u0142o"
+    },
+    {
+        "date": "2024-02-03",
+        "total_songs": 85,
+        "most_played_song": "Second Best",
+        "most_played_count": 3,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-02-04",
+        "total_songs": 59,
+        "most_played_song": "OMG",
+        "most_played_count": 14,
+        "artist": "Suki Waterhouse"
+    },
+    {
+        "date": "2024-02-05",
+        "total_songs": 77,
+        "most_played_song": "OMG",
+        "most_played_count": 17,
+        "artist": "Suki Waterhouse"
+    },
+    {
+        "date": "2024-02-06",
+        "total_songs": 145,
+        "most_played_song": "OMG",
+        "most_played_count": 7,
+        "artist": "Suki Waterhouse"
+    },
+    {
+        "date": "2024-02-07",
+        "total_songs": 107,
+        "most_played_song": "My Propeller",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-02-08",
+        "total_songs": 117,
+        "most_played_song": "OMG",
+        "most_played_count": 43,
+        "artist": "Suki Waterhouse"
+    },
+    {
+        "date": "2024-02-09",
+        "total_songs": 153,
+        "most_played_song": "Dangerous Animals",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-02-10",
+        "total_songs": 106,
+        "most_played_song": "Arabella",
+        "most_played_count": 7,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-02-11",
+        "total_songs": 111,
+        "most_played_song": "Absinthe",
+        "most_played_count": 4,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-02-12",
+        "total_songs": 98,
+        "most_played_song": "De Selby (Part 2)",
+        "most_played_count": 6,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-02-13",
+        "total_songs": 60,
+        "most_played_song": "Damage Gets Done (feat. Brandi Carlile)",
+        "most_played_count": 4,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-02-14",
+        "total_songs": 102,
+        "most_played_song": "Z\u0142amane serce jest OK",
+        "most_played_count": 18,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-02-15",
+        "total_songs": 162,
+        "most_played_song": "Dangerous Animals",
+        "most_played_count": 6,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-02-16",
+        "total_songs": 140,
+        "most_played_song": "Do I Wanna Know?",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-02-17",
+        "total_songs": 38,
+        "most_played_song": "Z\u0142amane serce jest OK",
+        "most_played_count": 8,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-02-18",
+        "total_songs": 133,
+        "most_played_song": "Baby Annihilation",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-02-19",
+        "total_songs": 98,
+        "most_played_song": "All Things End",
+        "most_played_count": 3,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-02-20",
+        "total_songs": 117,
+        "most_played_song": "Absinthe",
+        "most_played_count": 3,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-02-21",
+        "total_songs": 85,
+        "most_played_song": "Bleed Magic",
+        "most_played_count": 3,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-02-22",
+        "total_songs": 119,
+        "most_played_song": "Henrietta",
+        "most_played_count": 7,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-02-23",
+        "total_songs": 119,
+        "most_played_song": "Z\u0142amane serce jest OK",
+        "most_played_count": 19,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-02-24",
+        "total_songs": 72,
+        "most_played_song": "Z\u0142amane serce jest OK",
+        "most_played_count": 10,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-02-25",
+        "total_songs": 58,
+        "most_played_song": "De Selby (Part 1)",
+        "most_played_count": 3,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-02-26",
+        "total_songs": 105,
+        "most_played_song": "Balaclava",
+        "most_played_count": 6,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-02-27",
+        "total_songs": 78,
+        "most_played_song": "Z\u0142amane serce jest OK",
+        "most_played_count": 12,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-02-28",
+        "total_songs": 76,
+        "most_played_song": "The Gutterati?",
+        "most_played_count": 5,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-02-29",
+        "total_songs": 159,
+        "most_played_song": "Halo",
+        "most_played_count": 6,
+        "artist": "Dawid Podsiad\u0142o"
+    },
+    {
+        "date": "2024-03-01",
+        "total_songs": 65,
+        "most_played_song": "Dangerous Animals",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-03-02",
+        "total_songs": 40,
+        "most_played_song": "C\u2019est Comme \u00c7a",
+        "most_played_count": 8,
+        "artist": "Paramore"
+    },
+    {
+        "date": "2024-03-03",
+        "total_songs": 133,
+        "most_played_song": "Chelsea Dagger",
+        "most_played_count": 4,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-03-04",
+        "total_songs": 101,
+        "most_played_song": "Henrietta",
+        "most_played_count": 4,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-03-05",
+        "total_songs": 127,
+        "most_played_song": "Z\u0142amane serce jest OK",
+        "most_played_count": 11,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-03-06",
+        "total_songs": 113,
+        "most_played_song": "Dangerous Animals",
+        "most_played_count": 9,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-03-07",
+        "total_songs": 97,
+        "most_played_song": "Goddess",
+        "most_played_count": 24,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-03-08",
+        "total_songs": 70,
+        "most_played_song": "Goddess",
+        "most_played_count": 42,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-03-09",
+        "total_songs": 36,
+        "most_played_song": "Goddess",
+        "most_played_count": 5,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-03-10",
+        "total_songs": 139,
+        "most_played_song": "Goddess",
+        "most_played_count": 16,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-03-11",
+        "total_songs": 186,
+        "most_played_song": "DOWNSIDE",
+        "most_played_count": 21,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-03-12",
+        "total_songs": 156,
+        "most_played_song": "DOWNSIDE",
+        "most_played_count": 10,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-03-13",
+        "total_songs": 108,
+        "most_played_song": "DOWNSIDE",
+        "most_played_count": 6,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-03-14",
+        "total_songs": 88,
+        "most_played_song": "Goddess",
+        "most_played_count": 12,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-03-15",
+        "total_songs": 115,
+        "most_played_song": "SUNNYSIDE [Feat. Will Joseph Cook]",
+        "most_played_count": 5,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-03-16",
+        "total_songs": 50,
+        "most_played_song": "DOWNSIDE",
+        "most_played_count": 8,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-03-17",
+        "total_songs": 122,
+        "most_played_song": "DOWNSIDE",
+        "most_played_count": 8,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-03-18",
+        "total_songs": 106,
+        "most_played_song": "Goddess",
+        "most_played_count": 11,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-03-19",
+        "total_songs": 144,
+        "most_played_song": "Henrietta",
+        "most_played_count": 8,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-03-20",
+        "total_songs": 141,
+        "most_played_song": "Goddess",
+        "most_played_count": 9,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-03-21",
+        "total_songs": 89,
+        "most_played_song": "Flathead",
+        "most_played_count": 4,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-03-22",
+        "total_songs": 62,
+        "most_played_song": "D Is for Dangerous",
+        "most_played_count": 2,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-03-23",
+        "total_songs": 69,
+        "most_played_song": "Too Sweet",
+        "most_played_count": 28,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-03-24",
+        "total_songs": 84,
+        "most_played_song": "Too Sweet",
+        "most_played_count": 67,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-03-25",
+        "total_songs": 142,
+        "most_played_song": "Just One Yesterday",
+        "most_played_count": 13,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-03-26",
+        "total_songs": 187,
+        "most_played_song": "This Is Why",
+        "most_played_count": 10,
+        "artist": "Paramore"
+    },
+    {
+        "date": "2024-03-27",
+        "total_songs": 66,
+        "most_played_song": "The News",
+        "most_played_count": 6,
+        "artist": "Paramore"
+    },
+    {
+        "date": "2024-03-28",
+        "total_songs": 156,
+        "most_played_song": "Goddess",
+        "most_played_count": 8,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-03-29",
+        "total_songs": 91,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 26,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-03-30",
+        "total_songs": 32,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 32,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-03-31",
+        "total_songs": 72,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 31,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-04-01",
+        "total_songs": 153,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 23,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-04-02",
+        "total_songs": 158,
+        "most_played_song": "DOWNSIDE",
+        "most_played_count": 6,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-04-03",
+        "total_songs": 120,
+        "most_played_song": "Goddess",
+        "most_played_count": 8,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-04-04",
+        "total_songs": 95,
+        "most_played_song": "DOWNSIDE",
+        "most_played_count": 7,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-04-05",
+        "total_songs": 88,
+        "most_played_song": "Figure 8",
+        "most_played_count": 6,
+        "artist": "Paramore"
+    },
+    {
+        "date": "2024-04-06",
+        "total_songs": 58,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 11,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-04-07",
+        "total_songs": 55,
+        "most_played_song": "Liar",
+        "most_played_count": 7,
+        "artist": "Paramore"
+    },
+    {
+        "date": "2024-04-08",
+        "total_songs": 62,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 10,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-04-09",
+        "total_songs": 39,
+        "most_played_song": "A Little Less Sixteen Candles, A Little More \"Touch Me\"",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-04-10",
+        "total_songs": 64,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 15,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-04-11",
+        "total_songs": 196,
+        "most_played_song": "Pavlove - Demo",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-04-12",
+        "total_songs": 45,
+        "most_played_song": "Chelsea Dagger",
+        "most_played_count": 2,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-04-13",
+        "total_songs": 36,
+        "most_played_song": "DOWNSIDE",
+        "most_played_count": 2,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-04-14",
+        "total_songs": 41,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 38,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-04-15",
+        "total_songs": 74,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 47,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-04-16",
+        "total_songs": 34,
+        "most_played_song": "Got Ma Nuts From A Hippie",
+        "most_played_count": 3,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-04-17",
+        "total_songs": 63,
+        "most_played_song": "HOT TO GO!",
+        "most_played_count": 3,
+        "artist": "Chappell Roan"
+    },
+    {
+        "date": "2024-04-18",
+        "total_songs": 94,
+        "most_played_song": "Phantom Liberty",
+        "most_played_count": 5,
+        "artist": "Dawid Podsiad\u0142o"
+    },
+    {
+        "date": "2024-04-19",
+        "total_songs": 31,
+        "most_played_song": "Knee Socks",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-04-20",
+        "total_songs": 62,
+        "most_played_song": "Chelsea Dagger",
+        "most_played_count": 3,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-04-21",
+        "total_songs": 13,
+        "most_played_song": "Baby Fratelli",
+        "most_played_count": 3,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-04-22",
+        "total_songs": 48,
+        "most_played_song": "DOWNSIDE",
+        "most_played_count": 3,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-04-23",
+        "total_songs": 123,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 12,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-04-24",
+        "total_songs": 55,
+        "most_played_song": "27",
+        "most_played_count": 53,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-04-25",
+        "total_songs": 24,
+        "most_played_song": "27",
+        "most_played_count": 20,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-04-26",
+        "total_songs": 11,
+        "most_played_song": "27",
+        "most_played_count": 10,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-04-27",
+        "total_songs": 26,
+        "most_played_song": "27",
+        "most_played_count": 26,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-04-28",
+        "total_songs": 32,
+        "most_played_song": "27",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-04-29",
+        "total_songs": 32,
+        "most_played_song": "27",
+        "most_played_count": 15,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-04-30",
+        "total_songs": 55,
+        "most_played_song": "27",
+        "most_played_count": 25,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-05-01",
+        "total_songs": 104,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 9,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-05-02",
+        "total_songs": 166,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 7,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-05-03",
+        "total_songs": 95,
+        "most_played_song": "I'm Like A Lawyer With The Way I'm Always Trying To Get You Off (Me & You)",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-05-04",
+        "total_songs": 32,
+        "most_played_song": "My Propeller",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-05-05",
+        "total_songs": 44,
+        "most_played_song": "27",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-05-06",
+        "total_songs": 104,
+        "most_played_song": "Pretty Visitors",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-05-07",
+        "total_songs": 38,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 6,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-05-08",
+        "total_songs": 44,
+        "most_played_song": "Creepin Up The Backstairs",
+        "most_played_count": 3,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-05-09",
+        "total_songs": 183,
+        "most_played_song": "If You Were There, Beware",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-05-10",
+        "total_songs": 63,
+        "most_played_song": "Balaclava",
+        "most_played_count": 2,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-05-11",
+        "total_songs": 110,
+        "most_played_song": "Balaclava",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-05-12",
+        "total_songs": 95,
+        "most_played_song": "Do I Wanna Know?",
+        "most_played_count": 6,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-05-13",
+        "total_songs": 135,
+        "most_played_song": "Goddess",
+        "most_played_count": 17,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-05-14",
+        "total_songs": 159,
+        "most_played_song": "Fluorescent Adolescent",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-05-15",
+        "total_songs": 108,
+        "most_played_song": "\"The Take Over, The Breaks Over\"",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-05-16",
+        "total_songs": 46,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 22,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-05-17",
+        "total_songs": 131,
+        "most_played_song": "Baby Fratelli",
+        "most_played_count": 4,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-05-18",
+        "total_songs": 25,
+        "most_played_song": "Disloyal Order Of Water Buffaloes",
+        "most_played_count": 20,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-05-19",
+        "total_songs": 45,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 18,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-05-20",
+        "total_songs": 133,
+        "most_played_song": "Alone Together",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-05-21",
+        "total_songs": 127,
+        "most_played_song": "Of All The Gin Joints In All The World",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-05-22",
+        "total_songs": 24,
+        "most_played_song": "All Things End",
+        "most_played_count": 3,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-05-23",
+        "total_songs": 57,
+        "most_played_song": "SPKOTHDVL",
+        "most_played_count": 3,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-05-24",
+        "total_songs": 27,
+        "most_played_song": "Baby Fratelli",
+        "most_played_count": 3,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-05-25",
+        "total_songs": 92,
+        "most_played_song": "DOWNSIDE",
+        "most_played_count": 4,
+        "artist": "I DONT KNOW HOW BUT THEY FOUND ME"
+    },
+    {
+        "date": "2024-05-26",
+        "total_songs": 43,
+        "most_played_song": "Z Tob\u0105 na chacie",
+        "most_played_count": 3,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-05-27",
+        "total_songs": 65,
+        "most_played_song": "27",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-05-28",
+        "total_songs": 109,
+        "most_played_song": "After Midnight",
+        "most_played_count": 4,
+        "artist": "Chappell Roan"
+    },
+    {
+        "date": "2024-05-29",
+        "total_songs": 143,
+        "most_played_song": "Coffee",
+        "most_played_count": 8,
+        "artist": "Chappell Roan"
+    },
+    {
+        "date": "2024-05-30",
+        "total_songs": 145,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 6,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-05-31",
+        "total_songs": 139,
+        "most_played_song": "Disloyal Order Of Water Buffaloes",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-01",
+        "total_songs": 103,
+        "most_played_song": "Arabella",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-06-02",
+        "total_songs": 80,
+        "most_played_song": "27",
+        "most_played_count": 49,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-03",
+        "total_songs": 74,
+        "most_played_song": "Disloyal Order Of Water Buffaloes",
+        "most_played_count": 16,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-04",
+        "total_songs": 82,
+        "most_played_song": "27",
+        "most_played_count": 28,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-05",
+        "total_songs": 131,
+        "most_played_song": "SUPRO",
+        "most_played_count": 5,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-06-06",
+        "total_songs": 92,
+        "most_played_song": "Chelsea Dagger",
+        "most_played_count": 3,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-06-07",
+        "total_songs": 138,
+        "most_played_song": "When It Breaks",
+        "most_played_count": 29,
+        "artist": "Inhaler"
+    },
+    {
+        "date": "2024-06-08",
+        "total_songs": 61,
+        "most_played_song": "When It Breaks",
+        "most_played_count": 9,
+        "artist": "Inhaler"
+    },
+    {
+        "date": "2024-06-09",
+        "total_songs": 67,
+        "most_played_song": "Centuries",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-10",
+        "total_songs": 134,
+        "most_played_song": "Chelsea Dagger",
+        "most_played_count": 4,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-06-11",
+        "total_songs": 147,
+        "most_played_song": "Tiffany Blews",
+        "most_played_count": 12,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-12",
+        "total_songs": 148,
+        "most_played_song": "West Coast Smoker",
+        "most_played_count": 14,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-13",
+        "total_songs": 113,
+        "most_played_song": "Headfirst Slide Into Cooperstown On A Bad Bet",
+        "most_played_count": 10,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-14",
+        "total_songs": 105,
+        "most_played_song": "The (Shipped) Gold Standard",
+        "most_played_count": 10,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-15",
+        "total_songs": 35,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-16",
+        "total_songs": 90,
+        "most_played_song": "America's Suitehearts",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-17",
+        "total_songs": 130,
+        "most_played_song": "27",
+        "most_played_count": 7,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-18",
+        "total_songs": 110,
+        "most_played_song": "Balaclava",
+        "most_played_count": 6,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-06-19",
+        "total_songs": 50,
+        "most_played_song": "What A Catch, Donnie",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-20",
+        "total_songs": 115,
+        "most_played_song": "Disloyal Order Of Water Buffaloes",
+        "most_played_count": 8,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-21",
+        "total_songs": 69,
+        "most_played_song": "20 Dollar Nose Bleed",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-22",
+        "total_songs": 112,
+        "most_played_song": "Espresso",
+        "most_played_count": 11,
+        "artist": "Sabrina Carpenter"
+    },
+    {
+        "date": "2024-06-23",
+        "total_songs": 90,
+        "most_played_song": "Tiffany Blews",
+        "most_played_count": 11,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-24",
+        "total_songs": 102,
+        "most_played_song": "20 Dollar Nose Bleed",
+        "most_played_count": 10,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-25",
+        "total_songs": 94,
+        "most_played_song": "20 Dollar Nose Bleed",
+        "most_played_count": 7,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-26",
+        "total_songs": 89,
+        "most_played_song": "If You Were There, Beware",
+        "most_played_count": 7,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-06-27",
+        "total_songs": 87,
+        "most_played_song": "Disloyal Order Of Water Buffaloes",
+        "most_played_count": 9,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-28",
+        "total_songs": 111,
+        "most_played_song": "Tiffany Blews",
+        "most_played_count": 10,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-06-29",
+        "total_songs": 31,
+        "most_played_song": "Cornerstone",
+        "most_played_count": 2,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-06-30",
+        "total_songs": 70,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 6,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-01",
+        "total_songs": 93,
+        "most_played_song": "Headfirst Slide Into Cooperstown On A Bad Bet",
+        "most_played_count": 8,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-02",
+        "total_songs": 107,
+        "most_played_song": "Butchered Tongue",
+        "most_played_count": 6,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-07-03",
+        "total_songs": 162,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 6,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-04",
+        "total_songs": 55,
+        "most_played_song": "Butchered Tongue",
+        "most_played_count": 4,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-07-05",
+        "total_songs": 85,
+        "most_played_song": "Abstract (Psychopomp)",
+        "most_played_count": 5,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-07-06",
+        "total_songs": 86,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 9,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-07-07",
+        "total_songs": 86,
+        "most_played_song": "7 Minutes In Heaven (Atavan Halen)",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-08",
+        "total_songs": 175,
+        "most_played_song": "Teddy Picker",
+        "most_played_count": 9,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-07-09",
+        "total_songs": 229,
+        "most_played_song": "505",
+        "most_played_count": 6,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-07-10",
+        "total_songs": 118,
+        "most_played_song": "Bigger Boys and Stolen Sweethearts",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-07-11",
+        "total_songs": 59,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-12",
+        "total_songs": 50,
+        "most_played_song": "Disloyal Order Of Water Buffaloes",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-13",
+        "total_songs": 24,
+        "most_played_song": "West Coast Smoker",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-14",
+        "total_songs": 73,
+        "most_played_song": "America's Suitehearts",
+        "most_played_count": 7,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-15",
+        "total_songs": 151,
+        "most_played_song": "Disloyal Order Of Water Buffaloes",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-16",
+        "total_songs": 144,
+        "most_played_song": "Crying Lightning",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-07-17",
+        "total_songs": 121,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-18",
+        "total_songs": 151,
+        "most_played_song": "Von dutch",
+        "most_played_count": 16,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-07-19",
+        "total_songs": 211,
+        "most_played_song": "Von dutch",
+        "most_played_count": 25,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-07-20",
+        "total_songs": 100,
+        "most_played_song": "360",
+        "most_played_count": 7,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-07-21",
+        "total_songs": 54,
+        "most_played_song": "Everything is romantic",
+        "most_played_count": 4,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-07-22",
+        "total_songs": 141,
+        "most_played_song": "Von dutch",
+        "most_played_count": 20,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-07-23",
+        "total_songs": 167,
+        "most_played_song": "Mean girls",
+        "most_played_count": 13,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-07-24",
+        "total_songs": 106,
+        "most_played_song": "She's My Winona",
+        "most_played_count": 6,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-25",
+        "total_songs": 90,
+        "most_played_song": "Von dutch",
+        "most_played_count": 18,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-07-26",
+        "total_songs": 111,
+        "most_played_song": "No. 1 Party Anthem",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-07-27",
+        "total_songs": 24,
+        "most_played_song": "Knee Socks",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-07-28",
+        "total_songs": 25,
+        "most_played_song": "No. 1 Party Anthem",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-07-29",
+        "total_songs": 105,
+        "most_played_song": "Arabella",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-07-30",
+        "total_songs": 48,
+        "most_played_song": "27",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-07-31",
+        "total_songs": 75,
+        "most_played_song": "America's Suitehearts",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-01",
+        "total_songs": 20,
+        "most_played_song": "All Things End",
+        "most_played_count": 1,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-08-02",
+        "total_songs": 57,
+        "most_played_song": "Diet Mountain Dew",
+        "most_played_count": 5,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-08-03",
+        "total_songs": 82,
+        "most_played_song": "Blue Jeans",
+        "most_played_count": 4,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-08-04",
+        "total_songs": 53,
+        "most_played_song": "27",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-05",
+        "total_songs": 132,
+        "most_played_song": "Off To The Races",
+        "most_played_count": 13,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-08-06",
+        "total_songs": 46,
+        "most_played_song": "Summertime Sadness",
+        "most_played_count": 3,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-08-07",
+        "total_songs": 7,
+        "most_played_song": "Blue Jeans",
+        "most_played_count": 1,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-08-08",
+        "total_songs": 69,
+        "most_played_song": "20 Dollar Nose Bleed",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-09",
+        "total_songs": 88,
+        "most_played_song": "De Selby (Part 1)",
+        "most_played_count": 3,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-08-10",
+        "total_songs": 119,
+        "most_played_song": "Born To Die - Woodkid & The Shoes Remix",
+        "most_played_count": 7,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-08-11",
+        "total_songs": 89,
+        "most_played_song": "360",
+        "most_played_count": 4,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-08-12",
+        "total_songs": 122,
+        "most_played_song": "360",
+        "most_played_count": 6,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-08-13",
+        "total_songs": 65,
+        "most_played_song": "My Propeller",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-08-14",
+        "total_songs": 38,
+        "most_played_song": "Tiffany Blews",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-15",
+        "total_songs": 59,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 6,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-16",
+        "total_songs": 76,
+        "most_played_song": "360",
+        "most_played_count": 3,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-08-17",
+        "total_songs": 30,
+        "most_played_song": "27",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-18",
+        "total_songs": 87,
+        "most_played_song": "20 Dollar Nose Bleed",
+        "most_played_count": 6,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-19",
+        "total_songs": 80,
+        "most_played_song": "360",
+        "most_played_count": 3,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-08-20",
+        "total_songs": 88,
+        "most_played_song": "Von dutch",
+        "most_played_count": 6,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-08-21",
+        "total_songs": 29,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-22",
+        "total_songs": 70,
+        "most_played_song": "20 Dollar Nose Bleed",
+        "most_played_count": 7,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-23",
+        "total_songs": 102,
+        "most_played_song": "Arabella",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-08-24",
+        "total_songs": 157,
+        "most_played_song": "Do I Wanna Know?",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-08-25",
+        "total_songs": 115,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-26",
+        "total_songs": 154,
+        "most_played_song": "You Probably Couldn't See For The Lights But You Were Staring Straight At Me",
+        "most_played_count": 12,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-08-27",
+        "total_songs": 38,
+        "most_played_song": "A Certain Romance",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-08-28",
+        "total_songs": 90,
+        "most_played_song": "Everything is romantic",
+        "most_played_count": 5,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-08-29",
+        "total_songs": 24,
+        "most_played_song": "Dancing Shoes",
+        "most_played_count": 2,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-08-30",
+        "total_songs": 67,
+        "most_played_song": "America's Suitehearts",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-08-31",
+        "total_songs": 30,
+        "most_played_song": "360",
+        "most_played_count": 3,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-09-01",
+        "total_songs": 30,
+        "most_played_song": "Butchered Tongue",
+        "most_played_count": 3,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-09-02",
+        "total_songs": 52,
+        "most_played_song": "The View From The Afternoon",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-03",
+        "total_songs": 39,
+        "most_played_song": "A Certain Romance",
+        "most_played_count": 2,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-04",
+        "total_songs": 95,
+        "most_played_song": "The View From The Afternoon",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-05",
+        "total_songs": 37,
+        "most_played_song": "Everything is romantic",
+        "most_played_count": 6,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-09-06",
+        "total_songs": 75,
+        "most_played_song": "West Coast Smoker",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-09-07",
+        "total_songs": 75,
+        "most_played_song": "This Is What Makes Us Girls",
+        "most_played_count": 6,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-09-08",
+        "total_songs": 112,
+        "most_played_song": "Fake Tales Of San Francisco",
+        "most_played_count": 6,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-09",
+        "total_songs": 110,
+        "most_played_song": "I Bet You Look Good On The Dancefloor",
+        "most_played_count": 8,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-10",
+        "total_songs": 19,
+        "most_played_song": "The (Shipped) Gold Standard",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-09-11",
+        "total_songs": 131,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-09-12",
+        "total_songs": 59,
+        "most_played_song": "Everything is romantic",
+        "most_played_count": 4,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-09-13",
+        "total_songs": 51,
+        "most_played_song": "Z\u0142amane serce jest OK",
+        "most_played_count": 5,
+        "artist": "Daria Zawia\u0142ow"
+    },
+    {
+        "date": "2024-09-14",
+        "total_songs": 37,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-09-15",
+        "total_songs": 26,
+        "most_played_song": "I Bet You Look Good On The Dancefloor",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-16",
+        "total_songs": 26,
+        "most_played_song": "(Coffee's For Closers)",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-09-17",
+        "total_songs": 11,
+        "most_played_song": "Dancing Shoes",
+        "most_played_count": 1,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-18",
+        "total_songs": 120,
+        "most_played_song": "Dark Paradise",
+        "most_played_count": 3,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-09-19",
+        "total_songs": 34,
+        "most_played_song": "Perhaps Vampires Is A Bit Strong But\u2026",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-20",
+        "total_songs": 131,
+        "most_played_song": "Where Did The Party Go",
+        "most_played_count": 6,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-09-21",
+        "total_songs": 54,
+        "most_played_song": "Radio",
+        "most_played_count": 3,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-09-22",
+        "total_songs": 28,
+        "most_played_song": "Rat A Tat",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-09-23",
+        "total_songs": 49,
+        "most_played_song": "Crying Lightning",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-24",
+        "total_songs": 54,
+        "most_played_song": "This Is What Makes Us Girls",
+        "most_played_count": 6,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-09-25",
+        "total_songs": 26,
+        "most_played_song": "Born To Die - Woodkid & The Shoes Remix",
+        "most_played_count": 4,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-09-26",
+        "total_songs": 27,
+        "most_played_song": "This Is What Makes Us Girls",
+        "most_played_count": 4,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-09-27",
+        "total_songs": 131,
+        "most_played_song": "Crying Lightning",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-28",
+        "total_songs": 22,
+        "most_played_song": "Mardy Bum",
+        "most_played_count": 2,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-09-29",
+        "total_songs": 19,
+        "most_played_song": "Everything is romantic",
+        "most_played_count": 3,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-09-30",
+        "total_songs": 88,
+        "most_played_song": "From The Ritz To The Rubble",
+        "most_played_count": 7,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-01",
+        "total_songs": 27,
+        "most_played_song": "Fireside",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-02",
+        "total_songs": 73,
+        "most_played_song": "One For The Road",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-03",
+        "total_songs": 32,
+        "most_played_song": "West Coast Smoker",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-10-04",
+        "total_songs": 86,
+        "most_played_song": "w.a.m.s.",
+        "most_played_count": 6,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-10-05",
+        "total_songs": 24,
+        "most_played_song": "My Propeller",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-06",
+        "total_songs": 50,
+        "most_played_song": "Mean girls",
+        "most_played_count": 5,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-10-07",
+        "total_songs": 38,
+        "most_played_song": "For The Girl",
+        "most_played_count": 3,
+        "artist": "The Fratellis"
+    },
+    {
+        "date": "2024-10-08",
+        "total_songs": 23,
+        "most_played_song": "Disloyal Order Of Water Buffaloes",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-10-09",
+        "total_songs": 31,
+        "most_played_song": "Fire And The Thud",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-10",
+        "total_songs": 29,
+        "most_played_song": "The Jeweller's Hands",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-11",
+        "total_songs": 79,
+        "most_played_song": "Dance Little Liar",
+        "most_played_count": 10,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-12",
+        "total_songs": 1,
+        "most_played_song": "Still Take You Home",
+        "most_played_count": 1,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-13",
+        "total_songs": 23,
+        "most_played_song": "365",
+        "most_played_count": 3,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-10-14",
+        "total_songs": 117,
+        "most_played_song": "Club classics",
+        "most_played_count": 3,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-10-15",
+        "total_songs": 38,
+        "most_played_song": "A Certain Romance",
+        "most_played_count": 2,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-16",
+        "total_songs": 97,
+        "most_played_song": "Visitation Of The Ghost",
+        "most_played_count": 6,
+        "artist": "The Brobecks"
+    },
+    {
+        "date": "2024-10-17",
+        "total_songs": 24,
+        "most_played_song": "A Certain Romance",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-18",
+        "total_songs": 60,
+        "most_played_song": "Dreamer",
+        "most_played_count": 2,
+        "artist": "Laufey"
+    },
+    {
+        "date": "2024-10-19",
+        "total_songs": 41,
+        "most_played_song": "The View From The Afternoon",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-20",
+        "total_songs": 34,
+        "most_played_song": "Riot Van",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-21",
+        "total_songs": 70,
+        "most_played_song": "Everything is romantic",
+        "most_played_count": 3,
+        "artist": "Charli xcx"
+    },
+    {
+        "date": "2024-10-22",
+        "total_songs": 34,
+        "most_played_song": "Dangerous Animals",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-23",
+        "total_songs": 115,
+        "most_played_song": "Fake Tales Of San Francisco",
+        "most_played_count": 5,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-10-24",
+        "total_songs": 23,
+        "most_played_song": "Disloyal Order Of Water Buffaloes",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-10-25",
+        "total_songs": 100,
+        "most_played_song": "Centuries",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-10-26",
+        "total_songs": 38,
+        "most_played_song": "This Ain't A Scene, It's An Arms Race",
+        "most_played_count": 3,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-10-27",
+        "total_songs": 43,
+        "most_played_song": "7 Minutes In Heaven (Atavan Halen)",
+        "most_played_count": 2,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-10-28",
+        "total_songs": 97,
+        "most_played_song": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+        "most_played_count": 15,
+        "artist": "Tyler, The Creator"
+    },
+    {
+        "date": "2024-10-29",
+        "total_songs": 81,
+        "most_played_song": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+        "most_played_count": 10,
+        "artist": "Tyler, The Creator"
+    },
+    {
+        "date": "2024-10-30",
+        "total_songs": 65,
+        "most_played_song": "Aviation",
+        "most_played_count": 7,
+        "artist": "The Last Shadow Puppets"
+    },
+    {
+        "date": "2024-10-31",
+        "total_songs": 43,
+        "most_played_song": "This Is Why",
+        "most_played_count": 3,
+        "artist": "Paramore"
+    },
+    {
+        "date": "2024-11-01",
+        "total_songs": 53,
+        "most_played_song": "505",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-11-02",
+        "total_songs": 53,
+        "most_played_song": "Rah Tah Tah",
+        "most_played_count": 3,
+        "artist": "Tyler, The Creator"
+    },
+    {
+        "date": "2024-11-03",
+        "total_songs": 9,
+        "most_played_song": "Mardy Bum",
+        "most_played_count": 2,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-11-04",
+        "total_songs": 106,
+        "most_played_song": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+        "most_played_count": 7,
+        "artist": "Tyler, The Creator"
+    },
+    {
+        "date": "2024-11-05",
+        "total_songs": 96,
+        "most_played_song": "Like Him (feat. Lola Young)",
+        "most_played_count": 7,
+        "artist": "Tyler, The Creator"
+    },
+    {
+        "date": "2024-11-06",
+        "total_songs": 129,
+        "most_played_song": "Disloyal Order Of Water Buffaloes",
+        "most_played_count": 6,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-11-07",
+        "total_songs": 66,
+        "most_played_song": "This Is What Makes Us Girls",
+        "most_played_count": 7,
+        "artist": "Lana Del Rey"
+    },
+    {
+        "date": "2024-11-08",
+        "total_songs": 151,
+        "most_played_song": "Grand Theft Autumn / Where Is Your Boy",
+        "most_played_count": 6,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-11-09",
+        "total_songs": 49,
+        "most_played_song": "Bang The Doldrums",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-11-10",
+        "total_songs": 27,
+        "most_played_song": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+        "most_played_count": 3,
+        "artist": "Tyler, The Creator"
+    },
+    {
+        "date": "2024-11-11",
+        "total_songs": 98,
+        "most_played_song": "Bang The Doldrums",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-11-12",
+        "total_songs": 59,
+        "most_played_song": "Do I Wanna Know?",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-11-13",
+        "total_songs": 63,
+        "most_played_song": "Rat A Tat",
+        "most_played_count": 5,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-11-14",
+        "total_songs": 82,
+        "most_played_song": "Balaclava",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-11-15",
+        "total_songs": 72,
+        "most_played_song": "My Propeller",
+        "most_played_count": 3,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-11-16",
+        "total_songs": 48,
+        "most_played_song": "Femininomenon",
+        "most_played_count": 4,
+        "artist": "Chappell Roan"
+    },
+    {
+        "date": "2024-11-17",
+        "total_songs": 45,
+        "most_played_song": "A Night To Remember",
+        "most_played_count": 10,
+        "artist": "beabadoobee"
+    },
+    {
+        "date": "2024-11-18",
+        "total_songs": 109,
+        "most_played_song": "Dancing Shoes",
+        "most_played_count": 4,
+        "artist": "Arctic Monkeys"
+    },
+    {
+        "date": "2024-11-19",
+        "total_songs": 33,
+        "most_played_song": "Bang The Doldrums",
+        "most_played_count": 4,
+        "artist": "Fall Out Boy"
+    },
+    {
+        "date": "2024-11-20",
+        "total_songs": 148,
+        "most_played_song": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
+        "most_played_count": 5,
+        "artist": "Tyler, The Creator"
+    },
+    {
+        "date": "2024-11-21",
+        "total_songs": 98,
+        "most_played_song": "Wolne duchy",
+        "most_played_count": 4,
+        "artist": "M\u0119skie Granie Orkiestra"
+    },
+    {
+        "date": "2024-11-22",
+        "total_songs": 82,
+        "most_played_song": "Butchered Tongue",
+        "most_played_count": 4,
+        "artist": "Hozier"
+    },
+    {
+        "date": "2024-11-23",
+        "total_songs": 20,
+        "most_played_song": "Thought I Was Dead (feat. ScHoolboy Q & Santigold)",
+        "most_played_count": 3,
+        "artist": "Tyler, The Creator"
+    }
+]

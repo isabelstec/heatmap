@@ -1,0 +1,83 @@
+
+.heatmap-months {
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 20px; 
+  justify-content: center; 
+}
+
+
+.heatmap-month {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+  width: 200px; 
+  border: 1px solid #ddd; 
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.heatmap-month h3 {
+  margin-bottom: 10px;
+  font-size: 16px;
+  color: #333;
+  text-align: center;
+}
+
+
+.heatmap-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 20px); 
+  gap: 4px; 
+  justify-content: center; 
+}
+
+
+.heatmap-cell {
+  width: 20px;
+  height: 20px;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+
+.color-empty {
+  background-color: #eeeeee;
+}
+.color-scale-1 {
+  background-color: #c6e48b;
+}
+.color-scale-2 {
+  background-color: #7bc96f;
+}
+.color-scale-3 {
+  background-color: #239a3b;
+}
+.color-scale-4 {
+  background-color: #196127;
+}
+
+
+.react-tooltip {
+  background-color: #333;
+  color: #fff;
+  font-size: 14px;
+  padding: 8px 12px;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.custom-tooltip {
+  position: absolute;
+  background-color: #333;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  display: none;
+  pointer-events: none;
+}
+
